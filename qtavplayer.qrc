@@ -1,0 +1,50 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/play.png</file>
+        <file>resources/play2.png</file>
+        <file>resources/play2-activo.png</file>
+        <file>resources/play2-inhabilitado.png</file>
+        <file>resources/play-activo.png</file>
+        <file>resources/stop.png</file>
+        <file>resources/stop-activo.png</file>
+        <file>resources/stop-inhabilitado.png</file>
+        <file>resources/velocidad.png</file>
+        <file>resources/volumen.png</file>
+        <file>resources/volumen-activo.png</file>
+        <file>resources/volumen-inhabilitado.png</file>
+        <file>resources/icono-de-silencio-55100.png</file>
+        <file>resources/Media-Controls-Mute-icon.png</file>
+        <file>resources/camara.png</file>
+        <file>resources/camara-activa.png</file>
+        <file>resources/camara-inhabilitado.png</file>
+        <file>resources/maximizar.png</file>
+        <file>resources/maximizar-activo.png</file>
+        <file>resources/maximizar-inhabilitado.png</file>
+        <file>resources/velocidad-activo.png</file>
+        <file>resources/velocidad-inhabilitado.png</file>
+        <file>resources/dropdown.png</file>
+        <file>resources/dropdown-activo.png</file>
+        <file>resources/backarrow.png</file>
+        <file>resources/backarrow-activo.png</file>
+        <file>resources/fordarrow.png</file>
+        <file>resources/fordarrow-activo.png</file>
+        <file>resources/video back.png</file>
+        <file>resources/video back-activo.png</file>
+        <file>resources/video edit.png</file>
+        <file>resources/video edit-activo.png</file>
+        <file>resources/video next.png</file>
+        <file>resources/video next-activo.png</file>
+        <file>resources/close.png</file>
+        <file>resources/close-hover.png</file>
+        <file>resources/back.png</file>
+        <file>resources/back-hover.png</file>
+        <file>resources/next.png</file>
+        <file>resources/next-hover.png</file>
+        <file>resources/lupe-activo.png</file>
+        <file>resources/media-activo.png</file>
+        <file>resources/share-activo.png</file>
+        <file>resources/progress.gif</file>
+        <file>resources/boton-return.png</file>
+        <file>resources/save-activo.png</file>
+    </qresource>
+</RCC>
